@@ -1,0 +1,6 @@
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\bin\Debug\MaxRowFinder.exe.config
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\bin\Debug\MaxRowFinder.exe
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\bin\Debug\MaxRowFinder.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\obj\Debug\MaxRowFinder.exe
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\obj\Debug\MaxRowFinder.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder\obj\Debug\MaxRowFinder.csprojAssemblyReference.cache

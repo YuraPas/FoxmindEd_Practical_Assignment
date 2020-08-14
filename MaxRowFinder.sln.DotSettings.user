@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=617ebc45_002D618d_002D48ad_002D81d3_002Dfc873f8f26a3/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsNumericRow_InValidNumericRows_False #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_InValidNumericRows_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_ValidNumericRows_True&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_ValidNumericRows_True("1.4,2.5,6.7,4.0,5")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_ValidNumericRows_True("3.5,1.1,5.2")&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_ValidNumericRows_True("1.9")&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9d7dc4ee_002D06dd_002D4aeb_002Da0b7_002De5942f58ee06/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="IsNumericRow_InValidNumericRows_False" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_InValidNumericRows_False&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::BAC2DC31-ADE5-452E-8889-B11638D1C7B7::.NETFramework,Version=v4.5.2::MaxRowFinder.Tests.MaxRowFinderTests.IsNumericRow_ValidNumericRows_True&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

@@ -1,0 +1,17 @@
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.engine.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.engine.api.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.engine.core.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\MaxRowFinder.Tests.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\MaxRowFinder.Tests.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\MaxRowFinder.exe
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.framework.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\MaxRowFinder.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\MaxRowFinder.exe.config
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.framework.pdb
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\bin\Debug\nunit.framework.xml
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\obj\Debug\MaxRowFinder.Tests.csprojAssemblyReference.cache
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\obj\Debug\MaxRowFinder.Tests.csproj.CopyComplete
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\obj\Debug\MaxRowFinder.Tests.dll
+C:\Users\yuriy.paslavskyi\source\repos\MaxRowFinder\MaxRowFinder.Tests\obj\Debug\MaxRowFinder.Tests.pdb
